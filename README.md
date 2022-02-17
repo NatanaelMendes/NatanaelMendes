@@ -1,6 +1,6 @@
-## Olá! 👋
+# Olá! 👋
 
-#### Esse é meu GitHub. Aqui pretendo colocar meus testes e alguns programas e projetos que venho desenvolvendo durante o Curso de Ciência da Computação na UFF.
+### Esse é meu GitHub. Aqui pretendo colocar meus testes e alguns programas e projetos que venho desenvolvendo durante o Curso de Ciência da Computação na UFF.
 
 Está meio bagunçado, pois vou tocando várias coisas ao mesmo tempo, conforme minha disponibilidade e urgência dos projetos, mas, de maneira geral, segue uma lista de coisas que você pode encontrar aqui:
 
