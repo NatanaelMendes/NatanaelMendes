@@ -7,7 +7,7 @@ Está meio bagunçado, pois vou tocando várias coisas ao mesmo tempo, conforme 
 - Exercícios em Python de resolução de problemas no URI (agora chamado Beecrowd);
 - Exercícios em C;
 - Exercícios em Java;
-- Desafio Data Challenge;
+- Hackathon - Desafio Data Challenge 2021;
 - Jogo Pong em Python;
 - Jogo Space Invaders em Python;
 - Jogo Defend to the Light, com coautoria de dois colegas de faculdade;
@@ -16,17 +16,15 @@ Aos poucos vou organizando e colocando explicações dos projetos e enunciados d
 
 Obrigado!
 
-<!--
-**NatanaelMendes/NatanaelMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estatísticas
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelMendes&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelMendes&layout=compact&theme=tokyonight"/>
+  
+</div>
+
+### Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-alves-1b6866a5/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natanael.amendes/)
