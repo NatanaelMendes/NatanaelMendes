@@ -11,7 +11,7 @@ Está meio bagunçado, pois vou tocando várias coisas ao mesmo tempo, conforme 
 - Jogo Space Invaders em Python (2021.2);
 - Jogo Defend to the Light, com coautoria de dois colegas de faculdade (2021.2);
 - Exercícios em Java (2022.1);
-- Programa de Formação em Dados dsa Lojas Renner (2022.1)
+- Programa de Formação em Dados Lojas Renner S.A. (2022.1);
 
 Aos poucos vou organizando e colocando explicações dos projetos e enunciados dos exercícios. Por hora isso é tudo.
 
