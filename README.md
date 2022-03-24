@@ -4,13 +4,14 @@
 
 Está meio bagunçado, pois vou tocando várias coisas ao mesmo tempo, conforme minha disponibilidade e urgência dos projetos, mas, de maneira geral, segue uma lista de coisas que você pode encontrar aqui:
 
-- Exercícios em Python de resolução de problemas no URI (agora chamado Beecrowd);
-- Exercícios em C;
-- Exercícios em Java;
-- Hackathon - Desafio Data Challenge 2021;
-- Jogo Pong em Python;
-- Jogo Space Invaders em Python;
-- Jogo Defend to the Light, com coautoria de dois colegas de faculdade;
+- Exercícios em Python de resolução de problemas no URI (agora chamado Beecrowd) (2021.1);
+- Hackathon - Desafio Data Challenge 2021 (2021.1);
+- Exercícios em C (2021.2);
+- Jogo Pong em Python (2021.2);
+- Jogo Space Invaders em Python (2021.2);
+- Jogo Defend to the Light, com coautoria de dois colegas de faculdade (2021.2);
+- Exercícios em Java (2022.1);
+- Programa de Formação em Dados dsa Lojas Renner (2022.1)
 
 Aos poucos vou organizando e colocando explicações dos projetos e enunciados dos exercícios. Por hora isso é tudo.
 
